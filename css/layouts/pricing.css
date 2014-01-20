@@ -16,6 +16,9 @@ p {
     line-height: 1.6em;
 }
 
+.testimonial {
+    font-style:italic;
+}
 
 /*
  * -- Layout Styles --
