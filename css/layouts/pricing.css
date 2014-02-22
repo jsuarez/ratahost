@@ -246,9 +246,15 @@ ul.preguntas-frecuentes {
  */
 @media (max-width: 480px) {
     .banner {
-        height: 200px;
+        margin-bottom: 1.5em !important;
     }
     .banner-head {
         font-size: 2em;
+    }
+    .banner-head h1 {
+        font-size: 1.3em !important;
+    }
+    .banner-head p {
+        font-size: 0.8em !important;
     }
 }
