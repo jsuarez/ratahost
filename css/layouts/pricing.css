@@ -79,7 +79,7 @@ ul.preguntas-frecuentes {
         text-align: center;
     }
     .banner-head h1 {
-        font-size: 3.75em;
+        font-size: 3.70em;
         text-transform: uppercase;
         font-family: 'Text Me One', sans-serif;
         margin: 0;
@@ -215,9 +215,10 @@ ul.preguntas-frecuentes {
     background: black;
     color: #888;
     text-align: center;
+    font-weight: lighter;
 }
     .footer a {
-        color: #ddd;
+        color: #888;
     }
 .footer p {
     margin-bottom: 0;
